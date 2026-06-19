@@ -356,4 +356,9 @@ C#(닷넷코어), AWS, 유니티, GoLang
 </br>
 
 ## 개인작 ##
- [잭팟던전](https://www.game-ping.kr/games/jackpot-dungeon)
+
+<img
+    src = "img/Game/잭팟던전.png"
+/>
+
+[잭팟던전](https://www.game-ping.kr/games/jackpot-dungeon)
