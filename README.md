@@ -355,7 +355,7 @@ C#(닷넷코어), AWS, 유니티, GoLang
 </br>
 </br>
 
-## 개인작 ##
+## 개인작 (AI 활용) ##
 
 <img
     src = "img/Game/잭팟던전.png"
