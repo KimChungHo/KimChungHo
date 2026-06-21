@@ -362,3 +362,14 @@ C#(닷넷코어), AWS, 유니티, GoLang
 />
 
 [잭팟던전](https://www.game-ping.kr/games/jackpot-dungeon)
+
+<br/>
+<br/>
+
+<img
+    src = "img/Web/원신.webp"
+    width = 100
+    height = 100
+/>
+
+[원신 성유물 추천기](https://kimchungho.github.io/GenshinArtifactRecommender/)
