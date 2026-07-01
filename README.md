@@ -1,7 +1,7 @@
 # Profile
 
 ## 보유 기술
-C#(닷넷코어), AWS, 유니티, GoLang
+C#(닷넷코어), AWS, 유니티, GoLang, Node.js(JavaScript)
 
 ---
 
