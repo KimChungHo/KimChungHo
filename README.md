@@ -237,7 +237,7 @@ Node.js(JavaScript), RDB(MySQL), AWS Lambda
     height = 100
 />
 
-[GainRack](https://github.com/KimChungHo/GainRack)
+[Gain Rack](https://github.com/KimChungHo/GainRack)
 
 <br/>
 <br/>
@@ -248,4 +248,4 @@ Node.js(JavaScript), RDB(MySQL), AWS Lambda
     height = 100
 />
 
-[GainRack](https://github.com/KimChungHo/Capture-Card-Player)
+[Capture Card Player](https://github.com/KimChungHo/Capture-Card-Player)
