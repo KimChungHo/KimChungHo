@@ -227,3 +227,25 @@ Node.js(JavaScript), RDB(MySQL), AWS Lambda
 />
 
 [원신 성유물 추천기](https://kimchungho.github.io/GenshinArtifactRecommender/)
+
+<br/>
+<br/>
+
+<img
+    src = "img/App/GainRack.ico"
+    width = 100
+    height = 100
+/>
+
+[GainRack](https://github.com/KimChungHo/GainRack)
+
+<br/>
+<br/>
+
+<img
+    src = "img/App/CaptureCardPlayer.ico"
+    width = 100
+    height = 100
+/>
+
+[GainRack](https://github.com/KimChungHo/Capture-Card-Player)
