@@ -249,3 +249,14 @@ Node.js(JavaScript), RDB(MySQL), AWS Lambda
 />
 
 [Capture Card Player](https://github.com/KimChungHo/Capture-Card-Player)
+
+<br/>
+<br/>
+
+<img
+    src = "img/Web/원신OST랭킹.png"
+    width = 100
+    height = 100
+/>
+
+[원신 OST 랭킹](https://genshin-ost-ranking.com/)
