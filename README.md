@@ -280,3 +280,14 @@ Node.js(JavaScript), RDB(MySQL), AWS Lambda
 />
 
 [원신 OST 랭킹](https://genshin-ost-ranking.com/)
+
+<br/>
+<br/>
+
+<img
+    src = "img/App/obs.png"
+    width = 100
+    height = 100
+/>
+
+[OBS Studio 플러그인 - Source Auto Crop](https://github.com/KimChungHo/Obs-Auto-Crop/)
