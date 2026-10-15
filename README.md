@@ -24,7 +24,7 @@ C#(닷넷코어), AWS, 유니티, GoLang, Node.js(JavaScript)
 
 ## 참여 프로젝트 목차 ##
 
-[애니멀 헌터스](#애니멀-헌터스-서비스-중)
+[애니멀 헌터스](#애니멀-헌터스-서비스-종료)
 </br>
 [고블린 퀘스트](#고블린-퀘스트--idle-adventure-서비스-종료)
 </br>
@@ -57,7 +57,7 @@ C#(닷넷코어), AWS, 유니티, GoLang, Node.js(JavaScript)
     height = 100
 />
 
-## 애니멀 헌터스 (서비스 중)
+## 애니멀 헌터스 (서비스 종료)
 
 ### 사용기술
 C#, NoSQL DB(DynamoDB), RDB(MySQL), Redis, CI/CD(Code Pipeline), AutoScaling, VPC, 오케스트레이션(Elastic Beanstalk)
